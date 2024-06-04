@@ -6,6 +6,8 @@ This challenge provided an opportunity to work with JavaScript. The JavaScript f
 ## Usage
 Link: https://aramirez16516.github.io/employee/
 Screenshot: 
+![image](https://github.com/aramirez16516/employee/assets/158990548/3e2adb2b-8c49-4da5-93fa-9d6ad680b9d2)
+
 
 
 
