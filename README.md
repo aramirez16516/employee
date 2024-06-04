@@ -1,7 +1,7 @@
 # module-challenge-3
 
 ## Description
-This challenge provided an opportunity to work with JavaScript. The JavaScript file was updated with arrays, while loop, for loop, and object literal syntax. 
+This challenge provided an opportunity to work with JavaScript. The JavaScript file was updated with arrays, while loop, for loop, and object literal syntax. The challenge asks user to input employee first name, last name, and a salary. In console log an array is captured, a random employee is selected as a winner and the average salary for the employees is provided. The for loop for average salary is not calculating correctly although there is a isNan provided. 
 
 ## Usage
 Link: https://aramirez16516.github.io/employee/
