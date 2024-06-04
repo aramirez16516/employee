@@ -14,4 +14,5 @@ Screenshot:
 Class T.A. Leland Byrd and Andrea Presto
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+https://www.basedash.com/blog/how-to-find-the-average-of-an-array-in-javascript
 
