@@ -6,8 +6,9 @@ This challenge provided an opportunity to work with JavaScript. The JavaScript f
 ## Usage
 Link: https://aramirez16516.github.io/employee/
 Screenshot: 
+![alt text] (./02-Challenge/Assets/Screenshot 2024-06-04 004315.png)
 
-![alt text](./Assets/Screenshot 2024-06-04 004315.png)
+
 
 ## Credits
 Class T.A. Leland Byrd and Andrea Presto
