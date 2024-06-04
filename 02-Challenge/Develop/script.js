@@ -13,9 +13,21 @@ while (window.confirm("Would you like to add employee?")) {
     lastName: "",
     salary: 0,
   }
-}
+//prompts employee info: 
+employees.firstName = window.prompt("Enter employee's first name");
+employees.lastName = window.prompt("Enter employee's last name");
+employees.salary = window.prompt("Enter employee's salary");
+//if nan for salary alert
+if (isNaN(employees.salary)) {
+  employees.salary = 0      
 }
 
+//adds employee object to employeesArray
+employeesArray.push(employees);
+}
+//causes array to stop
+return employeesArray
+}
 // Display the average salary
 const displayAverageSalary = function(employeesArray) {
   // TODO: Calculate and display the average salary
