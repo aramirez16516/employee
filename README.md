@@ -6,7 +6,7 @@ This challenge provided an opportunity to work with JavaScript. The JavaScript f
 ## Usage
 Link: https://aramirez16516.github.io/employee/
 Screenshot: 
-![image](./02-Challenge/Assets/Screenshot 2024-06-04 004315.png)
+
 
 
 
