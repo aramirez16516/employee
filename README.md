@@ -18,4 +18,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_liter
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
 https://www.basedash.com/blog/how-to-find-the-average-of-an-array-in-javascript
 https://www.w3schools.com/jsref/met_win_prompt.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return
+https://www.w3schools.com/jsref/jsref_isnan.asp
 
